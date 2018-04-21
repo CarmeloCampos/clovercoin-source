@@ -26,6 +26,6 @@ sudo chmod +x Wallet-daemon.sh
 
 Informacion
 ---------------------
-[Pagina web](https://wolfclover.com)
-[Grupo principal:](https://t.me/wolf_clover)
-[Archivos importante:](https://github.com/WolfClover/clovercoin-source/releases)
+* [Pagina web](https://wolfclover.com)
+* [Grupo principal:](https://t.me/wolf_clover)
+* [Archivos importante:](https://github.com/WolfClover/clovercoin-source/releases)
