@@ -15,3 +15,9 @@ git clone https://github.com/WolfClover/clovercoin-source/
 cd clovercoin-source/src/
 sudo chmod +x Wallet-daemon.sh
 ./Wallet-daemon.sh
+
+Informacion
+===========================
+Archivos importante: https://github.com/WolfClover/clovercoin-source/releases
+Pagina web: https://wolfclover.com
+Grupo principal: https://t.me/wolf_clover
